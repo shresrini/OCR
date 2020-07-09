@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImageProcessing.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="tessedataPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\Project\tessdata3\</Value>
+    </Setting>
+    <Setting Name="defaultLang" Type="System.String" Scope="User">
+      <Value Profile="(Default)">eng</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=.\SQLExpress;Initial Catalog=OCRDB;Integrated Security=True;Pooling=False</Value>
+    </Setting>
+    <Setting Name="StoreinDatabase" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\Project\sampleImages\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
